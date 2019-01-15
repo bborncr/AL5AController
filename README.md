@@ -4,7 +4,7 @@ El AL5A es un brazo robótico fabricado por Lynxmotion en los EEUU.
 Tarjeta de Control: BotBoarduino (el bootloader es el Arduino Duemilanove)
 
 Manuales, esquemáticos y código de ejemplo del fabricante se puede conseguir en el siguiente enlace: 
-Documentacion Oficial del fabricante
+[Documentacion Oficial del fabricante](https://www.robotshop.com/en/lynxmotion-botboarduino-robot-controller.html)
 ## Software
 En 2013 CRCibernética hizo un software de control básico basado en Processing.
 
