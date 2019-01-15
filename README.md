@@ -33,16 +33,16 @@ La aplicación permite grabar y reproducir secuencias de movimiento. Los archivo
 Comandos:
 
 Secuencia para grabar posiciones:
-N - Empezar una nueva secuencia (genera un archivo nuevo)
-S - Grabar una posición. La velocidad de reproducción por defecto es 1 posicion cada 100 mS
-X - Guardar y cerrar el archivo actual
+- N - Empezar una nueva secuencia (genera un archivo nuevo)
+- S - Grabar una posición. La velocidad de reproducción por defecto es 1 posicion cada 100 mS
+- X - Guardar y cerrar el archivo actual
 
 Secuencia para grabar posiciones cada 100mS:
-N - Empezar una nueva secuencia (genera un archivo nuevo)
-R - Empezar a grabar una posición cada 100 mS
-X - Guardar y cerrar el archivo actual
+- N - Empezar una nueva secuencia (genera un archivo nuevo)
+- R - Empezar a grabar una posición cada 100 mS
+- X - Guardar y cerrar el archivo actual
 
 Secuencia para reproducir los movimientos:
-O - Abre una ventana para seleccionar el archivo de posiciones
-P - Reproducir el archivo seleccionado
+- O - Abre una ventana para seleccionar el archivo de posiciones
+- P - Reproducir el archivo seleccionado
 
